@@ -1,7 +1,7 @@
 {
-  "name": "webpacktest",
+  "name": "webchat",
   "version": "1.0.0",
-  "description": "",
+  "description": "WebChat for Webpack & HMR lessons",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
